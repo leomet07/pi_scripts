@@ -1,0 +1,1 @@
+sudo apt install -y arc-theme papirus-icon-theme
