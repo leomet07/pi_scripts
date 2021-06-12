@@ -1,0 +1,3 @@
+# LXDE theme string to make time like in windows
+
+%I:%M %p
